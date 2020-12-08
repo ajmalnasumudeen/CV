@@ -1,0 +1,15 @@
+body {
+  background-color: #eeeeee;
+  font-family: Arial;
+  font-size: 10pt;
+}
+
+TD {
+  font-family: Arial;
+  font-size: 10pt;
+}
+.profile-pic: {
+  border: 1px solid;
+  padding: 10px;
+  box-shadow: 5px 10px;
+}
